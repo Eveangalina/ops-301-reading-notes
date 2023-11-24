@@ -1,4 +1,4 @@
-Layers of OSI Model
+# Layers of OSI Model
 
 Q: What does “OSI” stand for?
 A: Open Systems Interconnection (OSI).
@@ -18,7 +18,7 @@ Q: Distinguish which layers are the “hardware layers”, and which layers are 
 Q: How can the OSI model be used in troubleshooting?
 Q: What Is Wireshark and How Is It Used?
 
-Feel free to stop at “How to Use Wireshark”
+# Feel free to stop at “How to Use Wireshark”
 
 Q: What is Wireshark?
 Q: What is a packet?

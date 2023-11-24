@@ -21,5 +21,9 @@ Q: What Is Wireshark and How Is It Used?
 # Feel free to stop at “How to Use Wireshark”
 
 Q: What is Wireshark?
+
+
 Q: What is a packet?
+
+
 Q: What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?

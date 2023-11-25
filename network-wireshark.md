@@ -30,18 +30,18 @@ A: It can be used as a structured approach to identifying and resolving problems
 
 # What Is Wireshark and How Is It Used?
 
-Q: What is Wireshark?
+Q:What is Wireshark?
 
-A: Wireshark is a network protocol analyzer that captures and analyzes network traffic in real time.
-
-
-
-Q: What is a packet?
-
-A: Packet is the name given to a discrete unit of data in a typical Ethernet network. It is a container or box that carries data from one device to another.
+A:Wireshark is a network protocol analyzer that captures and analyzes network traffic in real time.
 
 
 
-Q: What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+Q:What is a packet?
 
-A: The three high level activities include capturing and analyzing network traffic, decripting the traffic, as well as replaying the network traffic. Cybercriminals may use wireshark to spy on network traffic, launch denial of service attacks, or steal data. Benevolent uses of Wireshark include troubleshooting, identifying security vulnerabilities and optimizing network performance. 
+A:Packet is the name given to a discrete unit of data in a typical Ethernet network. It is a container or box that carries data from one device to another.
+
+
+
+Q:What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+
+A:The three high level activities include capturing and analyzing network traffic, decripting the traffic, as well as replaying the network traffic. Cybercriminals may use wireshark to spy on network traffic, launch denial of service attacks, or steal data. Benevolent uses of Wireshark include troubleshooting, identifying security vulnerabilities and optimizing network performance. 

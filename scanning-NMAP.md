@@ -22,11 +22,11 @@ A: Execution and speed are the difference between Transmission Control Protocol 
 
 
 1. List and describe the ports used for the following:
-Telnet - 23
-SSH - 22
-DNS - 53
-SMTP - 25
-HTTP - 80
-HTTPS - 443
-RDP - 3389
-Ping - is a port scan.
+Telnet -> 23
+SSH -> 22
+DNS -> 53
+SMTP -> 25
+HTTP -> 80
+HTTPS -> 443
+RDP -> 3389
+Ping -> is a port scan.

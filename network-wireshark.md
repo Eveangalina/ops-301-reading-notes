@@ -53,4 +53,4 @@ Layers 1 and 2 are hardware, layers 3 through 7 are software.
 **What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?**
 - The three high level activities include capturing and analyzing network traffic, decripting the traffic, as well as replaying the network traffic. Cybercriminals may use wireshark to spy on network traffic, launch denial of service attacks, or steal data. Benevolent uses of Wireshark include troubleshooting, identifying security vulnerabilities and optimizing network performance. 
 ### Resources
-[Chat BPT] (https://chat.openai.com) 
+[Chat BPT] (https://chat.openai.com)

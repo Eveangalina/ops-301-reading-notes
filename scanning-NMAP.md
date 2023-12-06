@@ -46,3 +46,8 @@ Used for real-time applications: Suitable for applications like video streaming,
 <u> Ping does not use a specific port;</u> instead ICMP Echo Request (Type 8) and ICMP Echo Reply (Type 0)*
 
  Ping uses ICMP (Internet Control Message Protocol) to check the connectivity between two devices. It doesn’t utilize a specific port; rather, it sends ICMP echo request packets and listens for ICMP echo replies.
+
+
+ #### Resources <br>
+ [ChatGPT] (https://chat.openai.com/share/a3ba0ffe-b837-4bb9-bdbc-8223f58434fa) <br>
+ [What is a Port Scanner and How Does it Work?] (https://www.varonis.com/blog/port-scanning-techniques)

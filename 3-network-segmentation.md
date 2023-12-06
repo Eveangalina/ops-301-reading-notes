@@ -24,11 +24,10 @@ Therefore, there are 256 - 2 = 254 usable IP addresses in the CIDR block 10.0.0.
 # What Is Network Segmentation and Why It Matters?
 
 ### In your own words, describe network segmentation.
-- 
-Network segmentation is a cybersecurity technique that divides a network into smaller, isolated segments to enhance security and control network traffic. It's like creating separate neighborhoods within a city, each with its own security measures and restricted access to other areas.
+- Network segmentation is a cybersecurity technique that divides a network into smaller, isolated segments to enhance security and control network traffic. It's like creating separate neighborhoods within a city, each with its own security measures and restricted access to other areas.
 
 ### Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? Why or why not?
-- I do not agree, attackers can find ways to get pass firewalls. Network segmentation is an additional layer of protection because after bypassing the firewall the attacker would then need to pass each network segment individually.
+- I do not agree, attackers can find ways to get past firewalls. Network segmentation is an additional layer of protection because after bypassing the firewall the attacker would then need to pass each network segment individually.
 
 ### What is a screened subnet?
 - A screened subnet, also known as a <ins>demilitarized zone (DMZ)</ins>, is a separate network segment that acts as a buffer between the internal network and the public Internet. It helps protect sensitive resources from unauthorized access and attacks originating from the Internet.

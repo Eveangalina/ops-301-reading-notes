@@ -14,40 +14,9 @@
 ### What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram.
 - Regarding the role of NAS (Network Access Server)
 
-    +-----------+<br>
-    |   User    |<br>
-    +-----------+<br>
-         |<br>
-         | Authentication Request<br>
-         v<br>
-+--------------------+<br>
-|    Network Access  |<br>
-|      Server (NAS)  |<br> 
-+--------------------+<br>
-         |<br>
-         | Authentication Request forwarded<br>
-         v<br>
-+--------------------+<br>
-|   ACS (Server)     |<br>
-|  (Authentication,  |<br> 
-|   Authorization,   |<br>
-|    Accounting)     |<br>
-+--------------------+<br>
-         |<br>
-         | Authentication Response<br>
-         v<br>
-+--------------------+<br>
-|    Network Access  |<br> 
-|      Server (NAS)  |<br> 
-+--------------------+<br>
-         |<br>
-         | Access Granted/Denied<br>
-         v<br>
-    +-----------+<br>
-    |   User    |<br>
-    +-----------+<br>
-
+![Alt text](image.png)
 
 #### Resources 
-[ChatGPT] () <br>
+[ChatGPT] (https://chat.openai.com/share/68183fd0-dd8a-48a5-b247-57a75a491fe3) <br>
 [Computer Network - AAA (Authentication, Authorization and Accounting)] (https://www.geeksforgeeks.org/computer-network-aaa-authentication-authorization-and-accounting/) <br>
+[draw.io] ()

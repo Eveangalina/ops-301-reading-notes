@@ -106,20 +106,9 @@ Try AI prompts like:
 - "How do I structure an AWS VPC to fit this org chart?"
 - "Which subnets should be public and private?"
 
-## Stretch Goal
+## Stretch Goal -removed
 
-Your client company has been wanting to move their physical infrastructure to the cloud and this is the perfect opportunity to build it out in AWS! If you team has time, reach for this stretch goal by meeting the following requirements:
 
-- Decide which departments in your org chart need public or private subnets.
-  - Create a description of the department and why it needs to be private or public.
-  - Document your reasoning for each design choice either in a Google Doc linked in a repo or in a markdown file.
-- Draw out your team's proposed AWS VPC topology solution
-  - Don't forget to include IP addresses!
-- Build out your team's AWS VPC solution in the cloud!
-  - Make the necessary connections and configurations to meet your client company's needs, including the newly acquired company.
-- Hint: In an AWS environment, you could deploy a Windows Server instance within a VPC and use Active Directory as the user management system for those instances.
-
-> Tip: You can use AI tooling to help you generate storylines to validate your infrastructure design choices.
 
 ## Assignments & Deliverables
 
